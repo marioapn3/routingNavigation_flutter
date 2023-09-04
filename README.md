@@ -1,6 +1,6 @@
 # routing_navigation
 
-A new Flutter project.
+This repository is use for learning navigation and routing in flutter
 
 ## Getting Started
 
